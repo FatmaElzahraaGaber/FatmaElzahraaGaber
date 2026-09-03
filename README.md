@@ -20,7 +20,12 @@ and continuously improving my frontend development skills.
 - 🚀 Always learning and improving my development skills
 
 ---
+## 📫 Contact
 
+- LinkedIn: [Fatma Elzahraa](https://www.linkedin.com/in/fatma-elzahraa-gaber-418b80181)
+- GitHub: [FatmaElzahraa11-star](https://github.com/fatmaelzahraagaber11-star/fatmaelzahraagaber11-star/)
+
+  
 ## 🛠️ Tech Stack
 
 ### Frontend
