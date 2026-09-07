@@ -23,7 +23,7 @@ and continuously improving my frontend development skills.
 ## 📫 Contact
 
 - LinkedIn: [Fatma Elzahraa](https://www.linkedin.com/in/fatma-elzahraa-gaber-418b80181)
-- GitHub: [FatmaElzahraa11-star](https://github.com/fatmaelzahraagaber11-star/FatmaElzahraaGaber/)
+- GitHub: [FatmaElzahraa11-star](https://github.com/FatmaElzahraaGaber/)
 
   
 ## 🛠️ Tech Stack
